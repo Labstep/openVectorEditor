@@ -35,7 +35,7 @@
     "@teselagen/react-list": "^0.8.18",
     "apollo-cache-invalidation": "^0.0.3",
     "apollo-client": "2.5.1",
-    "axios": "^0.18.0",
+    "axios": "^0.19.2",
     "bio-parsers": "^6.0.4",
     "chance": "^1.0.18",
     "classnames": "^2.2.6",
